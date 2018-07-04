@@ -1,1 +1,1 @@
-This is my second this is local reporsito.
+This is my second this is local reporsitory. I am commiting it again after reset --mixed. 
