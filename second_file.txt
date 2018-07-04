@@ -1,1 +1,1 @@
-This is my second this is local reporsitory. I am commiting it again after reset --mixed. Updating second file again. 
+This is my second this is local reporsitory. I am commiting it again after reset --mixed. Updating second file again. Updating file contents before trying git reset --hard. 
